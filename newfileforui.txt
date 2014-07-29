@@ -1,1 +1,4 @@
 this is the new file to be tracked by git ui
+********************
+
+this is added to see how merge happens
